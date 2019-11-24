@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389280205970",
+    "firebase_url": "https://speechdictionary.firebaseio.com",
+    "project_id": "speechdictionary",
+    "storage_bucket": "speechdictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389280205970:android:81edb21883120e67d56a4b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389280205970-c4hqt48ktb7uola0j5u9kmgehg5kakcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "797d0fb395e36611f4c52d103f0a9bf53fc4a750"
+          }
+        },
+        {
+          "client_id": "389280205970-300ighugcaagah4qmrk4k6a5c2g869ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHPLN4d-mFHMO7hmELjkRpuoelPJoy8hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389280205970-300ighugcaagah4qmrk4k6a5c2g869ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

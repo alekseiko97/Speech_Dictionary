@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Speech Dictionary</string>
+    <string name="no_recognition_available">Recognition is not available on this device</string>
+</resources>

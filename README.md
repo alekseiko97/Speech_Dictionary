@@ -1,4 +1,4 @@
-# Speech_Dictionary
+# Speech Dictionary
 An Android application that allows you to convert speech to the text, recognizes word - definition pattern and stores it in the Firestore database 
 
 # Functionalities
